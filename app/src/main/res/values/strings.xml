@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A7S212021PRAC5</string>
+    <string name="ListaImagen">Lista de Imagenes</string>
+    <string name="PiePantalla">Derechos Reservados</string>
+    <string name="LogoFaZe">FaZe Clan Logo</string>
+    <string name="LogoNrg">NRG Logo</string>
+    <string name="LogoOG">Optic Gaming Logo</string>
+    <string name="LogoTsm">TSM Clan Logo</string>
+    <string name="LogoLuminosity">Luminosity Clan Logo</string>
+    <string name="MiBoton">Clic Aquí</string>
+    <string name="IngresaClan">Ingresa tu Clan</string>
+</resources>
